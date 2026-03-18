@@ -1,59 +1,37 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FF9D&center=true&vCenter=true&width=400&lines=Merhaba!+%F0%9F%91%8B" alt="Typing SVG" />
-</div>
+# Arda Aydoğan
 
-<br>
+**AI Automation Engineer** focused on intelligent systems for engineering environments.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aydoganarda93-dot&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydoganarda93-dot&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+I design and build workflow automation pipelines using n8n, Python, and LLM APIs —
+targeting real operational problems in aerospace and industrial R&D contexts.
 
-<br>
+Currently building toward a role at TEI (TUSAŞ Engine Industries) as an automation
+specialist while developing production-ready AI tools.
 
-<h2 align="center">🛠️ Teknoloji Yığını</h2>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Groq-FF6B6B?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/RPA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="RPA" />
-  <img src="https://img.shields.io/badge/AI%20Agents-00D084?style=for-the-badge&logo=langchain&logoColor=white" alt="AI Agents" />
-</p>
+## What I build
 
-<h2 align="center">🚀 Şu An Üzerinde Çalıştığım</h2>
+**Technical Document Agent** *(in progress)*  
+Parses and analyzes engineering PDFs using n8n + RAG pipeline. Designed for
+high-volume technical documentation in aerospace MRO workflows.
 
-- n8n + Groq ile AI destekli otomasyon workflow’ları  
-- Türkçe RAG tabanlı teknik doküman soru-cevap sistemleri  
-- Basit multi-agent sistemler (CrewAI entegrasyonu)  
-- Web scraping + AI analiz pipeline’ları  
+**[AI News Intelligence System](https://github.com/aydoganarda93-dot/ai-news-profit-agent)**  
+Automated pipeline: RSS ingestion → Groq LLM analysis → structured insights output.
+Built with n8n and deployed end-to-end. Demonstrates multi-step agentic workflow design.
 
-<h2 align="center">📊 En Son Projelerim</h2>
+**Supply Chain Monitor** *(in progress)*  
+Tracks aerospace component pricing and supply signals using Python scrapers + AI
+classification layer.
 
-<p align="center">
-  <!-- Pin'lenmiş repo kartları buraya gelecek, GitHub otomatik ekler -->
-</p>
+---
 
-<h2 align="center">📫 İletişim & Sosyal</h2>
+## Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arda-aydoğan-960b583b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Arda1743428">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:aydoganarda93@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+`n8n` `Python` `Groq` `LangChain` `RPA` `REST APIs` `Git`
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aydoganarda93-dot.aydoganarda93-dot" alt="Profile Views" />
-</div>
+---
 
-<br>
+## Contact
 
-<div align="center">
-  <i>"Otomasyon gelecektir. Ben de o geleceği 17 yaşında inşa ediyorum." 🚀</i>
-</div>
+[LinkedIn](https://www.linkedin.com/in/arda-aydoğan-960b583b4/) · aydoganarda93@gmail.com
