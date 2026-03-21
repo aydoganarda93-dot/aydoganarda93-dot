@@ -16,7 +16,7 @@ specialist while developing production-ready AI tools.
 Parses and analyzes engineering PDFs using n8n + RAG pipeline. Designed for
 high-volume technical documentation in aerospace MRO workflows.
 
-**NeuralNode — AI News Platform**
+**[NeuralNode](https://github.com/aydoganarda93-dot/NeuralNode) — AI News Platform**
 Full-stack news aggregator: RSS ingestion → Groq LLM analysis → Next.js frontend.
 Deployed on Vercel, data pipeline via Google Sheets.
 [Live Site](https://v0-neural-node-news-aggregator.vercel.app) · [GitHub](https://github.com/aydoganarda93-dot/NeuralNode)
