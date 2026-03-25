@@ -13,6 +13,10 @@ targeting real operational problems in aerospace and industrial R&D contexts.
 Parses and analyzes engineering PDFs using n8n + RAG pipeline. Designed for
 high-volume technical documentation in aerospace MRO workflows.
 
+**[Çok Ajanlı Yapay Zeka](https://github.com/aydoganarda93-dot/cok-ajanli-yapay-zeka) — Multi-Agent AI Desktop App
+Single prompt → dynamic CrewAI agent team → QA-reviewed output. Hierarchical orchestration via Claude, live agent office visualization, and n8n-powered daily micro-SaaS factory.
+GitHub
+
 **[NeuralNode](https://github.com/aydoganarda93-dot/NeuralNode) — AI News Platform**
 Full-stack news aggregator: RSS ingestion → Groq LLM analysis → Next.js frontend.
 Deployed on Vercel, data pipeline via Google Sheets.
