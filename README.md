@@ -5,9 +5,6 @@
 I design and build workflow automation pipelines using n8n, Python, and LLM APIs —
 targeting real operational problems in aerospace and industrial R&D contexts.
 
-Currently building toward a role at TEI (TUSAŞ Engine Industries) as an automation
-specialist while developing production-ready AI tools.
-
 ---
 
 ## What I build
