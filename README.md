@@ -9,7 +9,7 @@ targeting real operational problems in aerospace and industrial R&D contexts.
 
 ## What I build
 
-**Technical Document Agent** *(in progress)*  
+**[Technical Document Agent](https://github.com/aydoganarda93-dot/mro_teknik_dokumantasyon)** *
 Parses and analyzes engineering PDFs using n8n + RAG pipeline. Designed for
 high-volume technical documentation in aerospace MRO workflows.
 
