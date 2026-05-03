@@ -9,11 +9,14 @@ targeting real operational problems in aerospace and industrial R&D contexts.
 
 ## What I build
 
+**[WareHouse System](https://github.com/aydoganarda93-dot/warehouse-system)
+Lightweight, portable WMS for SMEs: Barcode scanner integration → SQLite real-time inventory tracking → low-stock alerts. Compiled via PyInstaller for installation-free deployment on Windows/Linux.
+
 **[AutoIntel](https://github.com/aydoganarda93-dot/AutoIntel)**
 Automotive Deal Intelligence AI-powered SaaS for the Turkish auto market: Vehicle listing ingestion → Groq LLM analysis → scam & pricing anomaly detection. 
 Full-stack Next.js app with Supabase Auth/DB and dynamic PDF report generation.
 
-**[Technical Document Agent](https://github.com/aydoganarda93-dot/mro_teknik_dokumantasyon)** *
+**[Technical Document Agent](https://github.com/aydoganarda93-dot/mro_teknik_dokumantasyon)** 
 Parses and analyzes engineering PDFs using n8n + RAG pipeline. Designed for
 high-volume technical documentation in aerospace MRO workflows.
 
