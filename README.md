@@ -9,7 +9,7 @@ targeting real operational problems in aerospace and industrial R&D contexts.
 
 ## What I build
 
-**[WareHouse System](https://github.com/aydoganarda93-dot/warehouse-system)
+[WareHouse System](https://github.com/aydoganarda93-dot/warehouse-system)
 Lightweight, portable WMS for SMEs: Barcode scanner integration → SQLite real-time inventory tracking → low-stock alerts. Compiled via PyInstaller for installation-free deployment on Windows/Linux.
 
 **[AutoIntel](https://github.com/aydoganarda93-dot/AutoIntel)**
