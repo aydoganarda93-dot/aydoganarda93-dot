@@ -33,10 +33,6 @@ Deployed on Vercel, data pipeline via Google Sheets.
 Automated pipeline: RSS ingestion → Groq LLM analysis → structured insights output.
 Built with n8n and deployed end-to-end. Demonstrates multi-step agentic workflow design.
 
-**Supply Chain Monitor** *(in progress)*  
-Tracks aerospace component pricing and supply signals using Python scrapers + AI
-classification layer.
-
 ---
 
 ## Stack
