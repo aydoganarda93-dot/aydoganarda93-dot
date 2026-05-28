@@ -37,7 +37,7 @@ Built with n8n and deployed end-to-end. Demonstrates multi-step agentic workflow
 
 ## Stack
 
-`n8n` `Python` `Groq` `LangChain` `RPA` `REST APIs` `Git`
+ `Python` `RPA` `REST APIs` `Git`
 
 ---
 
