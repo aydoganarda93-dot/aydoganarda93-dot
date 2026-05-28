@@ -1,9 +1,6 @@
 # Arda Aydoğan
 
-**AI Automation Engineer** focused on intelligent systems for engineering environments.
-
-I design and build workflow automation pipelines using n8n, Python, and LLM APIs —
-targeting real operational problems in aerospace and industrial R&D contexts.
+**AI Powered Developer** 
 
 ---
 
@@ -37,7 +34,7 @@ Built with n8n and deployed end-to-end. Demonstrates multi-step agentic workflow
 
 ## Stack
 
- `Python` `RPA` `REST APIs` `Git`
+ `Python` `REST APIs` `Git` `Claude` `Cursor` `PostgreSQL` `TypeScript`
 
 ---
 
